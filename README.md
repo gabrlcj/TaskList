@@ -10,6 +10,7 @@ Aplicação realizada como desafio do **Chapter I do Ignite da Rocketseat**, uma
     - [x] Não adicionar tasks sem titulo.
   - [x] Criar uma função para marcar as tasks completadas.
   - [x] Criar uma função para excluir uma task já completada.
+  - [x] Armazenar dados dos to.dos dentro do local storage.
 
 ## Imagem 📷
 <div align="center">
